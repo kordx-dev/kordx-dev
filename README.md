@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/kordx-dev/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kordx-dev&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kordx-dev&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/kordx-dev/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kordx-dev" />
