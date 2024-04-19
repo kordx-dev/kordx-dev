@@ -1,8 +1,11 @@
 ### Hi there 👋
 
-[![Mes stats sur GitHub](https://github-readme-stats.vercel.app/api?username=kordx-dev)](https://github.com/kordx-dev/github-readme-stats)
-
-![Mes Stats GitHub (icone)](https://github-readme-stats.vercel.app/api?username=kordx-dev&show_icons=true)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <!--
 **kordx-dev/kordx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
