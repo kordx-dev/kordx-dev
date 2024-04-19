@@ -2,6 +2,8 @@
 
 [![Mes stats sur GitHub](https://github-readme-stats.vercel.app/api?username=kordx-dev)](https://github.com/kordx-dev/github-readme-stats)
 
+![Mes Stats GitHub (icone)](https://github-readme-stats.vercel.app/api?username=kordx-dev&show_icons=true)
+
 <!--
 **kordx-dev/kordx-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
