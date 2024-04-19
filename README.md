@@ -3,7 +3,7 @@
 <a href="https://github.com/kordx-dev/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kordx-dev&repo=github-readme-stats" />
 </a>
-<a href="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
 </a>
 
