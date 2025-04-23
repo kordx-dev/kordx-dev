@@ -48,12 +48,5 @@
 
 ---
 
-### 📈 Mes contributions GitHub
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kordx-dev&theme=dark" alt="GitHub Streak"/>
-</p>
-
----
-
 ### 👨‍💻 À propos de moi
 Développeur en formation, je me spécialise dans la conception d'applications web et logicielles robustes et efficaces.
