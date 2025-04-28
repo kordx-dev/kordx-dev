@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=kordx-dev&label=Profile%20views&style=flat" alt="Profile views" />
 </p>
 
-### 🚀 Actuellement
-- **🔭** Étudiant
-- **🌱** Apprentissage en cours : **C#**, **Java**, **JavaScript**, **PHP**, **Python**
-
 ### 📫 Contact
 - Discord : [kordx.](https://discord.com/users/kordx.)
 - Instagram : [kordx.dev](https://www.instagram.com/kordx.dev)
