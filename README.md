@@ -11,6 +11,7 @@
 
 ### 📫 Contact
 - Discord : [kordx.](https://discord.com/users/kordx.)
+- Instagram : [kordx.dev](https://www.instagram.com/kordx.dev)
 
 ---
 
